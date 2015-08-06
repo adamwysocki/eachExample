@@ -4,6 +4,8 @@ Just a quick example of using the 'index' parameter for Ember each statements in
 I also included Fixtures and a couple of integration tests in QUnit. Not rocket science, but hopefully helpful to someone getting
 started in Ember or on the path to 2.x
 
+![Table of Apes](http://41.media.tumblr.com/59d90459bbb30e4408888ae783431ada/tumblr_inline_nson4nO0wu1rgc5rh_500.png "Table of Apes")
+
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
