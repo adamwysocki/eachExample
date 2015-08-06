@@ -1,7 +1,8 @@
 # Each-example
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Just a quick example of using the 'index' parameter for Ember each statements introduced in 1.11. And just for fun 
+I also included Fixtures and a couple of integration tests in QUnit. Not rocket science, but hopefully helpful to someone getting
+started in Ember or on the path to 2.x
 
 ## Prerequisites
 
