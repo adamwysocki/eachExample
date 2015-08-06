@@ -6,6 +6,8 @@ started in Ember or on the path to 2.x
 
 ![Table of Apes](http://41.media.tumblr.com/59d90459bbb30e4408888ae783431ada/tumblr_inline_nson4nO0wu1rgc5rh_500.png "Table of Apes")
 
+[Read more on my blog](http://adamwysocki.me/post/126045706938/emberjs-each-helper-with-index)
+
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
