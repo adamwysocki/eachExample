@@ -1,0 +1,16 @@
+<table>
+	<tr>
+		<th>Name</th>
+		<th>Title</th>
+		<th>Type</th>
+	</tr>
+	{{#each model as |item index|}}
+	<tr class="ape-item {{unless index 'highlighted'}}">
+		<td>{{item.name}}</td> 
+		<td>{{item.title}}</td> 
+		<td>{{item.type}}</td> 
+	</tr>
+	{{/each}}
+</table>
+
+{{outlet}}
